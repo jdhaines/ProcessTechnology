@@ -1,2 +1,2 @@
-# process_technology
+# ProcessTechnology
 Shared Repo for Process Technology files
